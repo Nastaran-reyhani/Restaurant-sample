@@ -11,4 +11,4 @@
 
 - Role - Frontend
 
-- How to reach me : with my and [linkedin](https://www.linkedin.com/in/nastaran-reyhani-905b81337)
+- How to reach me : with my [linkedin](https://www.linkedin.com/in/nastaran-reyhani-905b81337)
